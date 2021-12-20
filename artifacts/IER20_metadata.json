@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"erc-20/erc-20.sol": "IER20"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"erc-20/erc-20.sol": {
+			"keccak256": "0x316251f7efecfaff8a9f9ee469df384a67ef4eee3f8ba40048039079fe4cb0fd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://43924560ac5eedb60f6e41a473f9b4e6075834edd196ba89a5319ef74f424cae",
+				"dweb:/ipfs/QmPoR3AndJ7gdyKxtx2YvhFraHLmLeeR3Fwm6Z61JhxVPF"
+			]
+		},
+		"erc-20/safe-math.sol": {
+			"keccak256": "0xe2d741d480889460bd5fcc1a64700ddd9de01161b35ef86fbd0c1fb018de5974",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://36cde895625337e54be5c5aba03303307223a0be1d63327acb6ddc038623c20d",
+				"dweb:/ipfs/QmNfUcSMgVdQh3staJSbbMPnQut8xS4FTJKtPWSrBPc5vn"
+			]
+		}
+	},
+	"version": 1
+}
